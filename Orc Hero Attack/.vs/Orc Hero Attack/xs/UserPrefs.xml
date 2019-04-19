@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{61A224A4-E18C-31FE-73D3-79AA543D7959}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BOX1.cs">
+    <Files>
+      <File FileName="Assets/Script/Player.cs" Line="26" Column="88" />
+      <File FileName="Assets/Script/GroundCheck.cs" Line="34" Column="2" />
+      <File FileName="Assets/Script/PauseMenu.cs" Line="56" Column="2" />
+      <File FileName="Assets/Script/MovingPlat.cs" Line="29" Column="2" />
+      <File FileName="Assets/Script/Camerafollow.cs" Line="16" Column="58" />
+      <File FileName="Assets/Script/PlayerAttack.cs" Line="45" Column="2" />
+      <File FileName="Assets/Script/AttackTrigger.cs" Line="16" Column="2" />
+      <File FileName="Assets/Script/BOX1.cs" Line="20" Column="40" />
+      <File FileName="Assets/Script/TurretAI.cs" Line="21" Column="1" />
+      <File FileName="Assets/Script/Scroll.cs" Line="21" Column="2" />
+      <File FileName="Assets/Script/SoundManager.cs" Line="21" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
